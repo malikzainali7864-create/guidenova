@@ -1,0 +1,3 @@
+import "./globals.css";
+export const metadata={title:"GuideNova — Smart Guides. Better Decisions.",description:"Practical guides, AI insights, technology tips, app recommendations and useful how-to solutions.",metadataBase:new URL("https://guidenova.com"),openGraph:{title:"GuideNova",description:"Smart Guides. Better Decisions.",type:"website"}};
+export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}

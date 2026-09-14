@@ -1,0 +1,1 @@
+export default function manifest(){return {name:"GuideNova",short_name:"GuideNova",description:"Smart Guides. Better Decisions.",start_url:"/",display:"standalone",background_color:"#f7f8fb",theme_color:"#5b5bd6"}}
